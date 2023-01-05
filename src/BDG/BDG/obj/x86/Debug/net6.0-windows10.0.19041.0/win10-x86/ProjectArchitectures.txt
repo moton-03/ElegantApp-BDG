@@ -1,0 +1,1 @@
+C:\GitHub\ElegantApp-BDG\src\BDG\BDG\BDG.csproj;x86

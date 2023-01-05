@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "BDG (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "BDG (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
